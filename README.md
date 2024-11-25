@@ -35,8 +35,8 @@ Here are some technologies and tools I frequently work with:
 - **Tools**: Git, Docker, VSCode, Azure, VisualStudio, TOAD
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyaranjanofficial25&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyaranjanofficial25&layout=compact&theme=radical)
 
 ## 📂 My Projects
 Here are some of the projects I'm most proud of:
