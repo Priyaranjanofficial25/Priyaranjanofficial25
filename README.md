@@ -19,7 +19,45 @@
 
 ---
 
-## About Me:
+
+## 🌟 About Me
+- 🔭 I’m currently working on [Your Current Project/Technology].
+- 🌱 I’m learning [New Skill/Technology/Field].
+- 👯 I’m looking to collaborate on [Type of Projects you’re interested in].
+- 💬 Ask me about [Topics you’re comfortable discussing].
+
+
+## 🛠️ My Tech Stack
+Here are some technologies and tools I frequently work with:
+- **Languages**: Programming Languages, Python, JavaScript, C# 
+- **Frameworks & Libraries**: [e.g., Django, React, ASP.NET, Vue.js]
+- **Databases**: PostgreSQL, MySQL, Oracle
+- **Tools**: Git, Docker, VSCode, Azure, VisualStudio, TOAD
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+
+## 📂 My Projects
+Here are some of the projects I'm most proud of:
+
+## 📫 Connect with Me
+Feel free to reach out to me on:
+- [LinkedIn](Your LinkedIn Profile URL)
+- [Twitter](Your Twitter Handle)
+- [Personal Website](Your Website URL)
+
+## 🎯 Goals for 2024
+- ✅ [Goal 1 you achieved]
+- 📝 [Goal 2 OS contribution]
+- 🚀 [Goal 3 Form Team globally]
+
+## 💖 Hobbies & Interests
+- 🎨 [Cooking]
+- 📚 [Travel]
+- 🎮 [Coding]
+
+Thanks for stopping by! 😊
 
 
 
